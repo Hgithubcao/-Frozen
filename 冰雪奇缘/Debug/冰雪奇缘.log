@@ -1,0 +1,28 @@
+﻿生成启动时间为 2015/9/22 21:07:43。
+     1>项目“D:\文件\编程\C++\随手编的\OPENGL\冰雪奇缘\冰雪奇缘\冰雪奇缘.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\文件\编程\c++\随手编的\opengl\冰雪奇缘\冰雪奇缘\snow.h(85): warning C4101: “pnext2”: 未引用的局部变量
+     1>d:\文件\编程\c++\随手编的\opengl\冰雪奇缘\冰雪奇缘\people.h(259): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2013\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\文件\编程\c++\随手编的\opengl\冰雪奇缘\冰雪奇缘\people.h(265): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2013\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\文件\编程\c++\随手编的\opengl\冰雪奇缘\冰雪奇缘\people.h(269): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2013\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\文件\编程\c++\随手编的\opengl\冰雪奇缘\冰雪奇缘\people.h(273): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2013\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\文件\编程\c++\随手编的\opengl\冰雪奇缘\冰雪奇缘\people.h(277): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\vs2013\vc\include\stdio.h(356) : 参见“sprintf”的声明
+     1>d:\文件\编程\c++\随手编的\opengl\冰雪奇缘\冰雪奇缘\main.cpp(140): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 e:\vs2013\vc\include\stdlib.h(911) : 参见“_sleep”的声明
+     1>d:\文件\编程\c++\随手编的\opengl\冰雪奇缘\冰雪奇缘\main.cpp(149): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 e:\vs2013\vc\include\stdlib.h(911) : 参见“_sleep”的声明
+       Link:
+         E:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\文件\编程\C++\随手编的\OPENGL\冰雪奇缘\Debug\冰雪奇缘.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\文件\编程\C++\随手编的\OPENGL\冰雪奇缘\Debug\冰雪奇缘.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\文件\编程\C++\随手编的\OPENGL\冰雪奇缘\Debug\冰雪奇缘.lib" /MACHINE:X86 /ENTRY:mainCRTStartup Debug\main.obj
+         冰雪奇缘.vcxproj -> D:\文件\编程\C++\随手编的\OPENGL\冰雪奇缘\Debug\冰雪奇缘.exe
+     1>已完成生成项目“D:\文件\编程\C++\随手编的\OPENGL\冰雪奇缘\冰雪奇缘\冰雪奇缘.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.73
